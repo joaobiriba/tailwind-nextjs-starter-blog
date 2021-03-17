@@ -1,3 +1,118 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="344.5639097744361 330.27819548872174 111.73684210526318 91.21804511278197" width="53.87" height="43.61"><defs><path d="M453.3 331.28L453.3 359.85L388.64 418.5L388.64 388.42L453.3 331.28Z" id="aFZf6T5ED"></path><linearGradient id="gradientb2ThqnP5Op" gradientUnits="userSpaceOnUse" x1="420.97" y1="331.28" x2="420.97" y2="418.5"><stop style="stop-color: #06b6d4;stop-opacity: 1" offset="0%"></stop><stop style="stop-color: #67e8f9;stop-opacity: 1" offset="100%"></stop></linearGradient><path d="M410.23 331.28L410.23 359.85L345.56 418.5L345.56 388.42L410.23 331.28Z" id="a9fehgwfM"></path><linearGradient id="gradientk1wNV9Ostb" gradientUnits="userSpaceOnUse" x1="377.89" y1="331.28" x2="377.89" y2="418.5"><stop style="stop-color: #06b6d4;stop-opacity: 1" offset="0%"></stop><stop style="stop-color: #67e8f9;stop-opacity: 1" offset="100%"></stop></linearGradient></defs><g><g><use xlink:href="#aFZf6T5ED" opacity="1" fill="url(#gradientb2ThqnP5Op)"></use></g><g><use xlink:href="#a9fehgwfM" opacity="1" fill="url(#gradientk1wNV9Ostb)"></use></g></g></svg>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   data-v-fde0c5aa=""
+   viewBox="0 0 193.39999 60.84"
+   class="iconLeft"
+   version="1.1"
+   id="svg54"
+   sodipodi:docname="default-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   width="193.39999"
+   height="60.84">
+  <metadata
+     id="metadata58">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2160"
+     inkscape:window-height="1346"
+     id="namedview56"
+     showgrid="false"
+     inkscape:zoom="2.45"
+     inkscape:cx="150"
+     inkscape:cy="150"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg54" />
+  <!---->
+  <defs
+     data-v-fde0c5aa=""
+     id="defs40">
+    <linearGradient
+       data-v-fde0c5aa=""
+       id="deb8624b-0075-4e9d-8779-fc6f6ddce628"
+       x1="0"
+       y1="0"
+       x2="300"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(0.64466658,0.20279999)">
+      <stop
+         data-v-fde0c5aa=""
+         offset="0%"
+         stop-color="#01648B"
+         stop-opacity="1"
+         id="stop35" />
+      <stop
+         data-v-fde0c5aa=""
+         offset="100%"
+         stop-color="#5BD0A4"
+         stop-opacity="1"
+         id="stop37" />
+    </linearGradient>
+  </defs>
+  <rect
+     data-v-fde0c5aa=""
+     fill="url(#deb8624b-0075-4e9d-8779-fc6f6ddce628)"
+     x="0"
+     y="0"
+     width="193.39992"
+     height="60.839981"
+     class="logo-background-square"
+     id="rect42"
+     style="fill:url(#deb8624b-0075-4e9d-8779-fc6f6ddce628);stroke-width:0.361578" />
+  <defs
+     data-v-fde0c5aa=""
+     id="defs44">
+    <!---->
+  </defs>
+  <g
+     data-v-fde0c5aa=""
+     id="499262d7-8d29-4d11-ad2f-6f32f5af3728"
+     fill="#ffffff"
+     transform="matrix(1.2822016,0,0,1.2822016,87.756186,18.652579)">
+    <path
+       d="M 7.32,12.67 H 1.15 V 3.04 h 1.3 v 8.57 h 4.87 z m 3.3,0.14 v 0 0 q -1.12,0 -1.68,-0.59 v 0 0 Q 8.38,11.63 8.38,10.61 v 0 0 q 0,-1.15 0.76,-1.76 v 0 0 Q 9.89,8.23 11.57,8.19 v 0 l 1.66,-0.03 v -0.4 0 q 0,-0.9 -0.38,-1.29 v 0 0 Q 12.47,6.08 11.65,6.08 v 0 0 q -0.83,0 -1.2,0.28 v 0 0 Q 10.07,6.64 9.99,7.25 v 0 L 8.71,7.14 v 0 q 0.31,-2 2.97,-2 v 0 0 q 1.39,0 2.09,0.64 v 0 0 q 0.71,0.64 0.71,1.85 v 0 3.18 0 q 0,0.55 0.14,0.83 v 0 0 q 0.15,0.28 0.55,0.28 v 0 0 q 0.18,0 0.4,-0.05 v 0 0.76 0 q -0.46,0.11 -0.95,0.11 v 0 0 q -0.68,0 -0.99,-0.36 v 0 0 q -0.31,-0.36 -0.35,-1.12 v 0 h -0.05 v 0 q -0.47,0.85 -1.09,1.2 v 0 0 q -0.63,0.35 -1.52,0.35 z m 0.28,-0.92 v 0 0 q 0.67,0 1.2,-0.31 v 0 0 q 0.53,-0.31 0.83,-0.84 v 0 0 q 0.3,-0.54 0.3,-1.11 v 0 -0.61 l -1.34,0.03 v 0 q -0.87,0.01 -1.32,0.18 v 0 0 q -0.45,0.16 -0.69,0.5 v 0 0 q -0.23,0.35 -0.23,0.9 v 0 0 q 0,0.6 0.32,0.93 v 0 0 q 0.32,0.33 0.93,0.33 z m 7.98,0.92 v 0 0 q -1.41,0 -2.06,-0.95 v 0 0 Q 16.16,10.91 16.16,9.01 v 0 0 q 0,-3.87 2.72,-3.87 v 0 0 q 0.84,0 1.39,0.3 v 0 0 q 0.55,0.3 0.91,0.99 v 0 h 0.02 v 0 q 0,-0.21 0.03,-0.71 v 0 0 q 0.02,-0.5 0.05,-0.54 v 0 h 1.18 v 0 q -0.04,0.4 -0.04,2.02 v 0 8.38 h -1.24 v -3 l 0.03,-1.12 H 21.2 v 0 q -0.37,0.73 -0.91,1.04 v 0 0 q -0.54,0.31 -1.41,0.31 z m 2.3,-3.92 v 0 0 q 0,-1.45 -0.47,-2.14 v 0 0 q -0.47,-0.7 -1.5,-0.7 v 0 0 q -0.94,0 -1.35,0.7 v 0 0 q -0.41,0.69 -0.41,2.22 v 0 0 q 0,1.55 0.42,2.22 v 0 0 q 0.41,0.67 1.33,0.67 v 0 0 q 1.04,0 1.51,-0.74 v 0 0 q 0.47,-0.75 0.47,-2.23 z m 3.09,-3.61 h 1.23 v 4.69 0 q 0,0.73 0.15,1.13 v 0 0 q 0.14,0.4 0.46,0.58 v 0 0 q 0.31,0.18 0.92,0.18 v 0 0 q 0.89,0 1.4,-0.61 v 0 0 q 0.51,-0.61 0.51,-1.69 v 0 -4.28 h 1.23 v 5.81 0 q 0,1.3 0.04,1.58 v 0 h -1.16 v 0 q 0,-0.03 -0.01,-0.18 v 0 0 q -0.01,-0.15 -0.02,-0.35 v 0 0 Q 29.01,11.95 29,11.41 v 0 h -0.02 v 0 Q 28.55,12.17 28,12.49 v 0 0 q -0.56,0.32 -1.39,0.32 v 0 0 q -1.21,0 -1.78,-0.6 v 0 0 q -0.56,-0.61 -0.56,-2 v 0 z M 33.31,3.71 H 32.08 V 2.53 h 1.23 z m 0,8.96 H 32.08 V 5.28 h 1.23 z m 6.58,-1.19 h -0.02 v 0 q -0.34,0.72 -0.91,1.02 v 0 0 q -0.56,0.31 -1.4,0.31 v 0 0 q -1.4,0 -2.06,-0.94 v 0 0 Q 34.84,10.92 34.84,9.01 v 0 0 q 0,-3.87 2.72,-3.87 v 0 0 q 0.84,0 1.4,0.31 v 0 0 q 0.57,0.31 0.91,0.98 v 0 h 0.01 L 39.87,5.6 V 2.53 h 1.23 v 8.62 0 q 0,1.15 0.04,1.52 v 0 h -1.18 v 0 q -0.02,-0.11 -0.04,-0.5 v 0 0 q -0.03,-0.4 -0.03,-0.69 z M 36.13,8.97 v 0 0 q 0,1.55 0.41,2.22 v 0 0 q 0.42,0.67 1.34,0.67 v 0 0 q 1.04,0 1.52,-0.72 v 0 0 q 0.47,-0.73 0.47,-2.25 v 0 0 q 0,-1.47 -0.47,-2.16 v 0 0 Q 38.92,6.05 37.89,6.05 v 0 0 q -0.93,0 -1.34,0.69 v 0 0 q -0.42,0.68 -0.42,2.23 z m 8.74,3.84 v 0 0 q -1.11,0 -1.67,-0.59 v 0 0 q -0.56,-0.59 -0.56,-1.61 v 0 0 q 0,-1.15 0.75,-1.76 v 0 0 q 0.76,-0.62 2.44,-0.66 v 0 l 1.66,-0.03 v -0.4 0 q 0,-0.9 -0.38,-1.29 v 0 0 Q 46.72,6.08 45.9,6.08 v 0 0 q -0.82,0 -1.2,0.28 v 0 0 q -0.38,0.28 -0.45,0.89 v 0 L 42.96,7.14 v 0 q 0.32,-2 2.97,-2 v 0 0 q 1.4,0 2.1,0.64 v 0 0 q 0.7,0.64 0.7,1.85 v 0 3.18 0 q 0,0.55 0.15,0.83 v 0 0 q 0.14,0.28 0.54,0.28 v 0 0 q 0.18,0 0.41,-0.05 v 0 0.76 0 q -0.47,0.11 -0.95,0.11 v 0 0 q -0.69,0 -1,-0.36 v 0 0 q -0.31,-0.36 -0.35,-1.12 v 0 h -0.04 v 0 q -0.47,0.85 -1.1,1.2 v 0 0 q -0.62,0.35 -1.52,0.35 z m 0.28,-0.92 v 0 0 q 0.68,0 1.2,-0.31 v 0 0 q 0.53,-0.31 0.84,-0.84 v 0 0 q 0.3,-0.54 0.3,-1.11 v 0 -0.61 l -1.35,0.03 v 0 q -0.87,0.01 -1.31,0.18 v 0 0 q -0.45,0.16 -0.69,0.5 v 0 0 q -0.24,0.35 -0.24,0.9 v 0 0 q 0,0.6 0.33,0.93 v 0 0 q 0.32,0.33 0.92,0.33 z m 6.88,0.78 H 50.8 V 7 7 q 0,-0.78 -0.04,-1.72 v 0 h 1.16 v 0 q 0.05,1.26 0.05,1.51 v 0 H 52 v 0 q 0.29,-0.95 0.68,-1.3 v 0 0 q 0.38,-0.35 1.08,-0.35 v 0 0 q 0.24,0 0.5,0.07 v 0 1.13 0 Q 54.01,6.27 53.6,6.27 v 0 0 q -0.77,0 -1.17,0.66 v 0 0 q -0.4,0.66 -0.4,1.89 v 0 z m 5.29,0.14 v 0 0 q -1.11,0 -1.68,-0.59 v 0 0 q -0.56,-0.59 -0.56,-1.61 v 0 0 q 0,-1.15 0.76,-1.76 v 0 0 q 0.75,-0.62 2.44,-0.66 v 0 l 1.66,-0.03 v -0.4 0 q 0,-0.9 -0.39,-1.29 v 0 0 Q 59.17,6.08 58.35,6.08 v 0 0 q -0.83,0 -1.2,0.28 v 0 0 Q 56.77,6.64 56.7,7.25 v 0 L 55.41,7.14 v 0 q 0.32,-2 2.97,-2 v 0 0 q 1.39,0 2.1,0.64 v 0 0 q 0.7,0.64 0.7,1.85 v 0 3.18 0 q 0,0.55 0.15,0.83 v 0 0 q 0.14,0.28 0.54,0.28 v 0 0 q 0.18,0 0.41,-0.05 v 0 0.76 0 q -0.47,0.11 -0.95,0.11 v 0 0 q -0.69,0 -1,-0.36 v 0 0 q -0.31,-0.36 -0.35,-1.12 v 0 h -0.04 v 0 q -0.47,0.85 -1.1,1.2 v 0 0 q -0.63,0.35 -1.52,0.35 z m 0.28,-0.92 v 0 0 q 0.68,0 1.2,-0.31 v 0 0 q 0.53,-0.31 0.83,-0.84 v 0 0 q 0.31,-0.54 0.31,-1.11 v 0 -0.61 l -1.35,0.03 v 0 q -0.87,0.01 -1.32,0.18 v 0 0 q -0.44,0.16 -0.68,0.5 v 0 0 q -0.24,0.35 -0.24,0.9 v 0 0 q 0,0.6 0.32,0.93 v 0 0 q 0.33,0.33 0.93,0.33 z"
+       id="path46" />
+  </g>
+  <defs
+     data-v-fde0c5aa=""
+     id="defs49">
+    <!---->
+  </defs>
+  <g
+     data-v-fde0c5aa=""
+     id="db137a59-5a5c-46b6-9d16-1f0b8ded1db1"
+     stroke="none"
+     fill="#ffffff"
+     transform="matrix(0.61179332,0,0,0.61179332,22.727694,-0.32716635)">
+    <path
+       d="M 23.943,30.807 5,50.001 23.942,69.193 a 4.386,4.386 0 0 0 6.258,0.002 4.522,4.522 0 0 0 0.002,-6.338 L 18.193,50.695 14.569,52.984 30.203,37.143 a 4.494,4.494 0 0 0 1.295,-3.168 4.5,4.5 0 0 0 -1.297,-3.17 4.387,4.387 0 0 0 -6.258,0.002 z M 76.057,30.808 95,50.001 76.058,69.193 A 4.386,4.386 0 0 1 69.8,69.195 4.522,4.522 0 0 1 69.798,62.857 L 81.807,50.696 85.431,52.985 69.796,37.144 a 4.494,4.494 0 0 1 -1.295,-3.168 4.5,4.5 0 0 1 1.297,-3.17 4.386,4.386 0 0 1 6.259,0.002 z m -15.158,1.544 a 4.492,4.492 0 0 0 -2.366,-2.476 4.386,4.386 0 0 0 -5.825,2.288 l -13.82,32.062 a 4.496,4.496 0 0 0 -0.048,3.422 4.492,4.492 0 0 0 2.366,2.476 4.386,4.386 0 0 0 5.825,-2.288 l 13.82,-32.062 a 4.496,4.496 0 0 0 0.048,-3.422 z"
+       id="path51" />
+  </g>
+  <!---->
+</svg>
