@@ -22,32 +22,26 @@ export default function About() {
             <h3 className="pt-4 pb-2 text-2xl font-bold leading-8 tracking-tight">
               {siteMetadata.author}
             </h3>
-            <div className="text-gray-500 dark:text-gray-400">Professor of Atmospheric Science</div>
-            <div className="text-gray-500 dark:text-gray-400">Stanford University</div>
+            <div className="text-gray-500 dark:text-gray-400">Developer Advocate @ Huawei</div>
+            <div className="text-gray-500 dark:text-gray-400">London, UK</div>
             <div className="flex pt-6 space-x-3">
               <SocialIcon kind="mail" href={`mailto:${siteMetadata.email}`} />
               <SocialIcon kind="github" href={siteMetadata.github} />
-              <SocialIcon kind="facebook" href={siteMetadata.facebook} />
-              <SocialIcon kind="youtube" href={siteMetadata.youtube} />
               <SocialIcon kind="linkedin" href={siteMetadata.linkedin} />
               <SocialIcon kind="twitter" href={siteMetadata.twitter} />
             </div>
           </div>
           <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">
             <p>
-              Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His
-              research interests includes complexity modelling of tailwinds, headwinds and
-              crosswinds.
-            </p>
-            <p>
-              He leads the clean energy group which develops 3D air pollution-climate models, writes
-              differential equation solvers, and manufactures titanium plated air ballons. In his
-              free time he bakes raspberry pi.
-            </p>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique
-              placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem
-              nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+              Started my development journey using Ada83 in the Archipelago of Real Time Systems
+              years and years ago, migrated into Object Oriented country surviving to C, Python and
+              Java. With these in the bag I've decided to leave for the newborn country of the
+              Mobile Development choosing Android as a first town. I was not alone in the journey,
+              many communities and events made me safe and satisfied and I liked to give back
+              speaking about my past trips and helping the others during around the fire meetups
+              (GDG, Facebook DevC, Mobile Tea and others) conferences like Droidcons and
+              Codemotions. I'm ready to pack my bag for VR/AR worlds and AI new lands and currently
+              helping Huawei ecosystem to be the safest and smartest harbour for developers!
             </p>
           </div>
         </div>
