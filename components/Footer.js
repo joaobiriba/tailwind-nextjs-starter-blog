@@ -11,6 +11,8 @@ export default function Footer() {
           <SocialIcon kind="github" href={siteMetadata.github} size="6" />
           <SocialIcon kind="linkedin" href={siteMetadata.linkedin} size="6" />
           <SocialIcon kind="twitter" href={siteMetadata.twitter} size="6" />
+          <SocialIcon kind="medium" href={siteMetadata.medium} size="6" />
+          <SocialIcon kind="stackoverflow" href={siteMetadata.stackoverflow} size="6" />
         </div>
         <div className="flex mb-2 space-x-2 text-sm text-gray-500 dark:text-gray-400">
           <div>{siteMetadata.author}</div>
