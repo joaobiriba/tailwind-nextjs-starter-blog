@@ -27,6 +27,7 @@ class MyDocument extends Document {
             })}
             );
           </script>
+
           <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGTFTP5C6W"></script>
           <script
             async
