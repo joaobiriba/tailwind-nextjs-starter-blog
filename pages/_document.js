@@ -10,23 +10,12 @@ class MyDocument extends Document {
             href="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.css"
           />
           <script src="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.js" defer></script>
-          <script>
-            window.addEventListener("load", function()
-            {window.wpcc.init({
-              border: 'thin',
-              corners: 'small',
-              colors: {
-                popup: { background: '#1a3242', text: '#ffffff', border: '#b3d0e4' },
-                button: { background: '#b3d0e4', text: '#000000' },
-              },
-              position: 'bottom',
-              content: {
-                href: 'https://www.websitepolicies.com/policies/view/O275BWEr',
-                link: 'https://www.websitepolicies.com/policies/view/O275BWEr',
-              },
-            })}
-            );
-          </script>
+          <script
+            async
+            dangerouslySetInnerHTML={{
+              __html: `window.addEventListener("load", function(){window.wpcc.init({"border":"thin","corners":"small","colors":{"popup":{"background":"#1a3242","text":"#ffffff","border":"#b3d0e4"},"button":{"background":"#b3d0e4","text":"#000000"}},"position":"bottom","content":{"href":"https://www.websitepolicies.com/policies/view/O275BWEr","link":"https://www.websitepolicies.com/policies/view/O275BWEr"}})});`,
+            }}
+          />
 
           <script async src="https://www.googletagmanager.com/gtag/js?id=G-SGTFTP5C6W"></script>
           <script
