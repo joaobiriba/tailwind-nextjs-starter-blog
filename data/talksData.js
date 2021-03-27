@@ -87,6 +87,100 @@ const talksData = [
     `,
     href: 'https://www.youtube.com/watch?v=dMe86s_uvhY',
   },
+  {
+    title: 'A Real use case of practical AR-AI couple: Size my luggage ',
+    date: '25-Oct-2019',
+    description: `Droidcon London 2019 -
+    This session is an use case of Augmented Reality and AI used in the travel sector. Let's discover together how
+    to identify a luggage and size it to check if its size is allowed for your travel.
+    `,
+    href: 'https://www.droidcon.com/media-detail?video=390725539',
+  },
+  {
+    title: 'A Real use case of practical AR-AI couple: Size my luggage ',
+    date: '19-Sep-2019',
+    description: `Droidcon Vienna 2019 Keynote -
+    We are reading about AR as the future platform even though we are currently experiencing
+     only gaming/entertainment use cases about it. Let's look an effective non-gaming sample: 
+     Many travel and transport companies are using AR to help you to understand if your luggage 
+     fit their limits. We will analyze their apps and learn how to develop 
+     an Android native app doing the same using ARCore, Sceneform and a bit of AI with Firebase ML Kit.
+      At the end you will be able to apply this new skills to new exciting use cases.`,
+    href: 'https://www.facebook.com/droidconvie/videos/400857253929654/',
+  },
+  {
+    title: 'A Real use case of practical AR-AI couple: Size my luggage ',
+    date: '01-Jul-2019',
+    description: `Droidcon Berlin 2019 -
+    We are reading about AR as the future platform even though we are currently experiencing
+     only gaming/entertainment use cases about it. Let's look an effective non-gaming sample: 
+     Many travel and transport companies are using AR to help you to understand if your luggage 
+     fit their limits. We will analyze their apps and learn how to develop 
+     an Android native app doing the same using ARCore, Sceneform and a bit of AI with Firebase ML Kit.
+      At the end you will be able to apply this new skills to new exciting use cases.`,
+    href: 'https://www.droidcon.com/media-detail?video=353345607',
+  },
+  {
+    title: 'Kotlin DSL magic for Augmented Reality',
+    date: '01-Dec-2018',
+    description: `GDG Dev Fest 2018 -
+    With ARCore and Sceneform we can easily create super cool augmented reality
+     applications without passing through the OpenGL dark arts...but we can do more. 
+     Just with Kotlin DSL magic we can develop a clean and expressive way to add virtual elements
+      to the reality canvas. In this talk you will learn how to create a Kotlin DSL to build Android AR apps
+       fueled by ARCore and Sceneform.
+    `,
+    href: 'https://youtu.be/brufiTSQ1rA?t=23129',
+  },
+  {
+    title: 'Hello ARCore',
+    date: '11-Dec-2017',
+    description: `Codemotion Milan 2017 -
+    Get ready to develop a brand new experiences that seamlessly blend the digital and physical worlds 
+    with Android! We will learn the potential of the new AR SDK from Google, ARCore.
+     By looking its 3 key technologies: Motion tracking, Environmental understanding and Light
+      estimation We will have a clear vision of what We can develop with. 
+      You will be back at home with a deeper understanding of how to create AR apps with ARCore
+       using your development environment and ready-to-reuse code samples.`,
+    href: 'https://www.youtube.com/watch?v=Kfril2-E4Ug',
+  },
+  {
+    title: 'Webinar: Creare applicazioni VR',
+    date: '29-Sep-2017',
+    description: `Codemotion -
+    Come creare soluzioni VR che girino sullo smartphone? In questo Webinar andremo ad introdurre i fondamenti per creare una applicazione VR per mobile. Ci soffermeremo su Unity e i principali framework per far funzionare le applicazioni su Cardboard, Daydream and Gear VR. 
+    Infine daremo un sguardo alle differenze tra le piattaforme di applicazioni VR.`,
+    href: 'https://www.youtube.com/watch?v=ng4-Ib0t8EA',
+  },
+  {
+    title: 'Small bricks of virtual reality web',
+    date: '15-Dec-2016',
+    description: `Codemotion Milan 2016 -
+    Let's prototype VR experiences running in your browser! 
+    We don't need any complex tools but a bag full of VR bricks designed by Mozilla (aframe.io)
+     and our knowledge of html5 and js.`,
+    href: 'https://www.youtube.com/watch?v=fjbm77zX89c',
+  },
+  {
+    title: 'Having fun with droidcon NFC/QR hunt',
+    date: '08-Jun-2015',
+    description: `Droicon Berlin 2015 -
+    Did you play with our funny game in Droidcon?
+    Now it's time to understand how we develop it starting by the open source code by Google,
+    extended it with new design, improved functionality and enhanced experience.`,
+    href: 'https://www.youtube.com/watch?v=I3-_LhLTt5c',
+  },
+  {
+    title: 'Join The Dart Side Of Web Development 2',
+    date: '03-Apr-2015',
+    description: `Droicon Berlin 2015 -
+    Hai seguito il precedente Talk su Dart a Codemotion Roma e Milano 2014? 
+    Ti ha incuriosito questo nuovo e potente linguaggio "battery included" by Google?
+     Allora proseguiamo questo viaggio all'interno del Dartiverse, visiteremo insieme Polymer.Dart,
+      Dart Force, e StageXL alcune tra la più potenti librerie per realizzare Web App davvero potenti
+       in maniera semplice.`,
+    href: 'https://www.youtube.com/watch?v=qXVUr9byvko',
+  },
 ]
 
 export default talksData
