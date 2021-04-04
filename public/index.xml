@@ -7,17 +7,17 @@
       <language>en-us</language>
       <managingEditor>glaquidara@gmail.com (Giovanni Laquidara)</managingEditor>
       <webMaster>glaquidara@gmail.com (Giovanni Laquidara)</webMaster>
-      <lastBuildDate>Thu, 18 Mar 2021 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 28 May 2020 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://laquidara.dev/index.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://laquidara.dev/blog/welcome</guid>
-    <title>Welcome post</title>
-    <link>https://laquidara.dev/blog/welcome</link>
-    <description>Welcome to my personal blog</description>
-    <pubDate>Thu, 18 Mar 2021 00:00:00 GMT</pubDate>
+    <guid>https://laquidara.dev/blog/2020-05-28_Solve-a-Word-Search-Game-using-Firebase-ML-Kit-and-Huawei-ML-Kit</guid>
+    <title>Solve a Word Search Game using Firebase ML Kit and Huawei ML Kit</title>
+    <link>https://laquidara.dev/blog/2020-05-28_Solve-a-Word-Search-Game-using-Firebase-ML-Kit-and-Huawei-ML-Kit</link>
+    <description>Allow your users the freedom to choose their Android platform providing the same feature</description>
+    <pubDate>Thu, 28 May 2020 00:00:00 GMT</pubDate>
     <author>glaquidara@gmail.com (Giovanni Laquidara)</author>
-    <category>markdown</category><category>code</category><category>features</category>
+    <category>ML Kit</category><category>HMS ML Kit</category><category>WordSearch</category><category>trie</category>
   </item>
 
     </channel>
