@@ -4,7 +4,7 @@ summary: >-
   Allow your users the freedom to choose their Android platform providing the
   same feature
 date: '2020-05-28'
-draft: false
+draft: true
 categories: []
 tags: ['ML Kit', 'HMS ML Kit', 'WordSearch', 'trie']
 slug: >-
