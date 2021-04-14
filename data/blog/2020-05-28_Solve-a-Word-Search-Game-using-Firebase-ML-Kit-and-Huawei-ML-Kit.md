@@ -7,7 +7,6 @@ date: '2020-05-28'
 draft: true
 categories: []
 tags: ['ML Kit', 'HMS ML Kit', 'WordSearch', 'trie']
-images: [https://cdn-images-1.medium.com/max/800/1*4z44q3MnDaeoyK30qFzK0g.jpeg]
 slug: >-
   /@joaolaq/solve-a-word-search-game-using-firebase-ml-kit-and-huawei-ml-kit-8b9cc06bf4ce
 ---

@@ -5,6 +5,7 @@ summary: >-
 date: '2021-04-13'
 draft: false
 categories: []
+images: ['/static/images/newborn.jpeg']
 tags: ['ML Kit', 'HMS ML Kit', 'Sound detection', 'Jetpack Compose']
 ---
 
