@@ -10,7 +10,7 @@ tags: ['ML Kit', 'HMS ML Kit', 'Sound detection', 'Jetpack Compose']
 
 ![](https://miro.medium.com/max/1050/1*fnzmK5179yDbBckSAxfNeQ.jpeg)
 
-Adding complex features to a mobile app is becoming easier and easier. In the years We saw a lot of SDK, libraries and utilities
+Adding complex features to a mobile app is becoming easier and easier. In the years We saw a lot of SDKs, libraries and utilities
 to help us as developers fulfil the trickiest needs of our users.
 
 Years ago I could not imagine how difficult could it be to develop something like a Baby Monitor app for our smartphone.
