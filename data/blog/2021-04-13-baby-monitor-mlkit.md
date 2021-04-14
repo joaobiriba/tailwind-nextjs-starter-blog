@@ -9,6 +9,7 @@ tags: ['ML Kit', 'HMS ML Kit', 'Sound detection', 'Jetpack Compose']
 ---
 
 ![](https://miro.medium.com/max/1050/1*fnzmK5179yDbBckSAxfNeQ.jpeg)
+Photo by <a href="https://unsplash.com/@tjsocoz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tim Bish</a> on <a href="https://unsplash.com/s/photos/newborn-crying?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 Adding complex features to a mobile app is becoming easier and easier. In the years We saw a lot of SDKs, libraries and utilities
 to help us as developers fulfil the trickiest needs of our users.
