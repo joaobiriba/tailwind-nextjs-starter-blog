@@ -68,7 +68,7 @@ Then we can add the effective dependency of the HMS ML Kit sound detection just 
     implementation 'com.huawei.hms:ml-speech-semantics-sounddect-sdk:2.1.0.300'
 ```
 
-## The HMS ML Kit Sound Reconizer
+## The HMS ML Kit Sound Recognizer
 
 The Sound detection provided by HMS ML KIT can recognize up to 12 different kinds of sounds.
 To use it We have to initialize the SoundDetector
