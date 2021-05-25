@@ -5,7 +5,7 @@ summary: >-
 date: '2021-05-25'
 draft: false
 categories: []
-images: ['/static/images/wastewater.jpeg']
+images: ['/static/images/wastewater.jpg']
 tags: ['ML Kit', 'HMS ML Kit', 'Sound detection', 'Jetpack Compose']
 ---
 
