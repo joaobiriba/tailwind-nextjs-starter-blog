@@ -9,7 +9,7 @@ images: ['/static/images/wastewater.jpeg']
 tags: ['ML Kit', 'HMS ML Kit', 'Sound detection', 'Jetpack Compose']
 ---
 
-![](https://miro.medium.com/max/7318/1*0cZsEegZs_yLQj30pkj1Gg.jpeg)
+![](https://miro.medium.com/max/400/1*0cZsEegZs_yLQj30pkj1Gg.jpeg)
 Photo by <a href="https://unsplash.com/@dylu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jacek Dylag</a> on <a href="https://unsplash.com/s/photos/tap-water?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 Water is a finite resource and we should be aware to not waste it.
@@ -206,7 +206,7 @@ In depth, to create the water animation part we’ve used the API to draw on the
 
 If you are interested in how can we use Jetpack Compose and the Canvas API I suggest you read his article:
 
-[](https://medium.com/google-developer-experts/exploring-jetpack-compose-canvas-the-power-of-drawing-8cc60815babe)
+[Exploring Jetpack Compose Canvas](https://medium.com/google-developer-experts/exploring-jetpack-compose-canvas-the-power-of-drawing-8cc60815babe)
 
 The TimeWave composable in this case is just modified to draw two waves using 2 paths in the canvas animated as waves and translating them from the bottom of the screen to the top, gradually, if the running water is detected
 
