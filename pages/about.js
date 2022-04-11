@@ -40,8 +40,7 @@ export default function About() {
               many communities and events made me safe and satisfied and I liked to give back
               speaking about my past trips and helping the others during around the fire meetups
               (GDG, Facebook DevC, Mobile Tea and others) conferences like Droidcons and
-              Codemotions. I'm ready to pack my bag for VR/AR worlds and AI new lands and currently
-              helping Huawei ecosystem to be the safest and smartest harbour for developers!
+              Codemotions. I'm ready to pack my bag for VR/AR worlds and AI new lands.
             </p>
           </div>
         </div>
